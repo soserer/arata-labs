@@ -5,7 +5,7 @@
 # ARATA
 ## 🤖 Build and create your own agents
 
-> ???
+> ca: EctJKGZwkjFUyhNG9hLHStoMG8L9WwGbBdTbSTEJpump
 > 
 [![Twitter Follow](https://img.shields.io/badge/Follow%20on%20X-%232A8C5A?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arataagi)
 
