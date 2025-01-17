@@ -2,7 +2,7 @@
 
 ![ARATA](https://pbs.twimg.com/profile_images/1839484844965019648/KAV1E_4n_400x400.jpg)
 
-# ALFA
+# ARATA
 ## 🤖 Build and create your own agents
 
 > ??? 
